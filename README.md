@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamish</h1>
-<h3 align="center">A first year computer science student</h3>
+<h3 align="center">I'm a first year computer science student</h3>
 
-- 🔭 I’m currently working on [Watzon Bot](https://github.com/Slaymish/Watzon)
+- 🔭 I’m currently working on [Watzon Bot](https://github.com/Slaymish/Watzon) and playing around with raytracing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
