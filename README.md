@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hamish</h1>
-<h3 align="center">I'm a second year computer science student</h3>
+<h2 align="center">I'm a second year computer science student</h2>
 
-- 🔭 I’m currently working on [Watzon Bot](https://github.com/Slaymish/Watzon) and playing around with raytracing
+<em>awaiting the agi apocalypse</em>
+
+- 🔭 I’m currently working on a j[ava gpt assistant](https://github.com/Slaymish/Watzon) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
