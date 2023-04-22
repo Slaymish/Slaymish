@@ -3,7 +3,7 @@
 
 <em>awaiting the agi apocalypse</em>
 
-- 🔭 I’m currently working on a j[ava gpt assistant](https://github.com/Slaymish/Watzon) 
+- 🔭 I’m currently working on a [java gpt assistant](https://github.com/Slaymish/Java-GPT-Assistant) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
