@@ -3,7 +3,6 @@
 
 <em>awaiting the agi apocalypse</em>
 
-- 🔭 I’m currently working on a [java gpt assistant](https://github.com/Slaymish/Java-GPT-Assistant) 
 - 👨‍💻 All of my projects are available at [hamishburke.dev](https://hamishburke.dev)
 
 <h3 align="left">Connect with me:</h3>
