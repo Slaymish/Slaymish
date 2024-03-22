@@ -5,15 +5,18 @@
 
 - 👨‍💻 All of my projects are available at [hamishburke.dev](https://hamishburke.dev)
 
+<div float="left">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/hamishcreatingbadstuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamishcreatingbadstuff" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/slaymish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="slaymish" height="30" width="40" /></a>
 <a href="https://discord.gg/oce-echo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="oce-echo" height="30" width="40" /></a>
 </p>
+</div>
 
-<h3 align="right">Languages and Tools:</h3>
-<p align="right"> 
+<div float="right">
+<h3>Languages and Tools:</h3>
+<p> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a> 
@@ -36,6 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
 </p>
+</div>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=slaymish&" alt="slaymish" /></p>
 
