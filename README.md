@@ -1,4 +1,4 @@
-<h1 align="center">i'm hamish!</h1>
+<h1 align="center">i'm hamish!! :D</h1>
 <h2 align="center">I'm a third year computer science student</h2>
 
 <em>awaiting the agi apocalypse</em>
