@@ -3,7 +3,7 @@
 
 <em>awaiting the agi apocalypse</em>
 
-<img src="https://www.catster.com/wp-content/uploads/2023/11/Beluga-Cat-576x1024.webp" alt="Smiley cat" align="center" height="20px"/>
+<img src="https://www.catster.com/wp-content/uploads/2023/11/Beluga-Cat-576x1024.webp" alt="Smiley cat" align="center" height="100px"/>
 
 <div float="left">
 <h3>Contact me!</h3>
