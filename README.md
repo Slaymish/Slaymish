@@ -6,11 +6,14 @@
 - 👨‍💻 All of my projects are available at [hamishburke.dev](https://hamishburke.dev)
 
 <div float="left">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/hamishcreatingbadstuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamishcreatingbadstuff" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/slaymish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="slaymish" height="30" width="40" /></a>
-<a href="https://discord.gg/oce-echo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="oce-echo" height="30" width="40" /></a>
+<h3>Connect with me:</h3>
+<p>
+  <a href="https://instagram.com/hamishcreatingbadstuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamishcreatingbadstuff" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/slaymish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="slaymish" height="30" width="40" /></a>
+  <a href="https://discord.gg/oce-echo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="oce-echo" height="30" width="40" />
+  </a>
+  <a href="https://hamishburke.dev"><img align="center" src="https://webstockreview.net/images/website-icon-png.png" alt="My Website" height="30" width="30 />
+                                      </a>
 </p>
 </div>
 
