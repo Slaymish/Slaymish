@@ -3,7 +3,7 @@
 
 <em>awaiting the agi apocalypse</em>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hY7m5jjJ9mM?autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<img src="https://www.catster.com/wp-content/uploads/2023/11/Beluga-Cat-576x1024.webp" alt="Smiley cat" />
 
 <div float="left">
 <h3>Connect with me:</h3>
