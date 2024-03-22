@@ -6,7 +6,7 @@
 <img src="https://www.catster.com/wp-content/uploads/2023/11/Beluga-Cat-576x1024.webp" alt="Smiley cat" />
 
 <div float="left">
-<h3>Connect with me:</h3>
+<h3>Contact me!</h3>
 <p>
   <a href="https://instagram.com/hamishcreatingbadstuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamishcreatingbadstuff" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/slaymish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="slaymish" height="30" width="40" /></a>
@@ -18,7 +18,7 @@
 </div>
 
 <div float="right">
-<h3>Languages and Tools:</h3>
+<h3>Some things I use:</h3>
 <p> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
