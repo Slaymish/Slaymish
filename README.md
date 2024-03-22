@@ -1,5 +1,5 @@
 <h1 align="center">i'm hamish!! :D</h1>
-<h2 align="center">I'm a third year computer science student</h2>
+<h3 align="center">third year computer science student at VUW</h2>
 
 <em>awaiting the agi apocalypse</em>
 
