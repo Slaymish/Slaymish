@@ -1,5 +1,7 @@
 <h1 align="center">I'm hamish!! :D</h1>
-<h3 align="center">third year computer science student at VUW</h2>
+<h3 align="center"> computer science graduate from Victoria University of Wellington</h2>
+<h3 align="center">Currently pursuing a Masters in Computer Science</h2>
+
 
 <em>awaiting the agi apocalypse</em>
 
