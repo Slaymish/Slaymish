@@ -41,7 +41,6 @@
 </p>
 </div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=slaymish&" alt="slaymish" /></p>
 
 <p>
   <img style="float:right;margin-top:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=slaymish&show_icons=true&locale=en&layout=compact" alt="slaymish" /></p>
