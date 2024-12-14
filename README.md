@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Science Graduate | 🎓 Master’s Student | 🌏 Based in Wellington, NZ</h3>
 
 <p align="center">
-  <em>“awaiting the agi apocalypse...”</em>
+  <em>awaiting the agi apocalypse...</em>
 </p>
 
 <p align="center">
