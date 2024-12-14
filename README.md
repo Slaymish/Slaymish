@@ -13,9 +13,9 @@
 
 ### 🚀 About Me
 - 🎓 **Computer Science Graduate** from **Victoria University of Wellington**.
-- 🌱 Currently pursuing a **Master’s in Computer Science**, diving into **graphics** and **cybersecurity**.
+- 🌱 Currently pursuing a **Master’s in Computer Science**, focusing on **graphics** and **cybersecurity**.
 - 🛠️ Creating and breaking things (intentionally, of course 😉).
-- 😎 Just vibing until the **future of AI takes over**.  
+- 😎 Just vibin
 
 ---
 
