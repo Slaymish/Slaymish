@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  👾 **Fun Fact:** I sometimes think
+  👾 <strong>Fun Fact:</strong> I sometimes think
 </p>
