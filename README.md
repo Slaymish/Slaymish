@@ -17,6 +17,12 @@
 - 🛠️ Creating and breaking things (intentionally, of course 😉).
 - 😎 Just vibin
 
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slaymish&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hamish's Top Languages"/>
+</p>
+
 ---
 
 ### 📬 Contact Me!
@@ -33,15 +39,6 @@
     <img src="https://img.shields.io/badge/Website-hamishburke.dev-brightgreen?style=flat-square" alt="Personal Website"/>
   </a>
   -->
-</p>
-
----
-
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slaymish&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hamish's Top Languages"/>
 </p>
 
 ---
