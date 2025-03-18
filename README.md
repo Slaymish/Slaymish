@@ -27,9 +27,12 @@
   <a href="https://www.youtube.com/c/slaymish" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
   </a>
+
+  <!--
   <a href="https://hamishburke.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-hamishburke.dev-brightgreen?style=flat-square" alt="Personal Website"/>
   </a>
+  -->
 </p>
 
 ---
