@@ -1,48 +1,34 @@
-<h1 align="center">Hi there, I'm Hamish! 😄</h1>
-<h3 align="center">💻 Computer Science Graduate | 🎓 Master’s Student | 🌏 Based in Wellington, NZ</h3>
+# Hi, I'm Hamish 👋
 
-<p align="center">
-  <em>awaiting the agi apocalypse...</em>
-</p>
+I'm a Computer Science MComp student and software developer based in Wellington.  
+I build things across machine learning, systems, and tools that make sense: clean, intentional engineering with a focus on clarity and robustness.
 
-<p align="center">
-  <img src="https://www.catster.com/wp-content/uploads/2023/11/Beluga-Cat-576x1024.webp" alt="Smiley cat" height="250px"/>
-</p>
+## What I’m working on
+- 🧠 **MComp Research** — Diffusion-based anomaly detection for electromagnetic signals  
+- 🛠️ **Tools & Systems** — Python, Go, ML pipelines, server-side automation  
+- 🎨 **Creative Tech** — Blender simulations, physics tools, and visual systems  
+- 📚 **Tech + Philosophy** — Interested in how people build tools *and* identities
 
----
+## Tech I use
+- **Languages:** Python, Go, JavaScript/TypeScript, Bash  
+- **ML / Data:** PyTorch, NumPy, pandas, scikit-learn  
+- **Systems / DevOps:** Linux, Docker, cron jobs, Raspberry Pi, APIs  
+- **Creative:** Blender, Python scripting, simulation pipelines  
 
-### 🚀 About Me
-- 🎓 **Computer Science Graduate** from **Victoria University of Wellington**.
-- 🌱 Currently pursuing a **Master’s in Computer Science**, focusing on **graphics** and **cybersecurity**.
-- 🛠️ Creating and breaking things (intentionally, of course 😉).
-- 😎 Just vibin
+## Selected Projects
+- **MComp Diffusion Models** — End-to-end 1D diffusion pipeline for anomaly detection  
+- **AndoSim** — Blender physics tools + simulation experiments  
+- **Personal Health Dashboard** — Go backend + PostgreSQL + HTMX for tracking metrics  
+- **Finance Sync System** — Pi-based automation pulling bank transactions → Google Sheets  
 
+## What I value
+- Clear thinking  
+- Clean engineering  
+- Tools that work  
+- Alignment between intention and output  
 
+If you want to talk about ML, systems, simulation, or philosophical perspectives on tech, feel free to reach out.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slaymish&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hamish's Top Languages"/>
-</p>
-
----
-
-### 📬 Contact Me!
-<p align="left">
-  <a href="https://instagram.com/hamishcreatingstuff" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.youtube.com/c/slaymish" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
-  </a>
-
-  <!--
-  <a href="https://hamishburke.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-hamishburke.dev-brightgreen?style=flat-square" alt="Personal Website"/>
-  </a>
-  -->
-</p>
-
----
-
-<p align="center">
-  👾 <strong>Fun Fact:</strong> I sometimes think
 </p>
