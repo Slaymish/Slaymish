@@ -4,10 +4,10 @@ I'm a Computer Science MComp student and software developer based in Wellington.
 I build things across machine learning, systems, and tools that make sense: clean, intentional engineering with a focus on clarity and robustness.
 
 ## What I’m working on
-- **MComp Research** — Diffusion-based anomaly detection for electromagnetic signals  
-- **Tools & Systems** — Python, Go, ML pipelines, server-side automation  
-- **Creative Tech** — Blender simulations, physics tools, and visual systems  
-- **Tech + Philosophy** — Interested in how people build tools *and* identities
+- **MComp Research**: Diffusion-based anomaly detection for electromagnetic signals  
+- **Tools & Systems**: Python, Go, ML pipelines, server-side automation  
+- **Creative Tech**: Blender simulations, physics tools, and visual systems  
+- **Tech + Philosophy**: Interested in how people build tools *and* identities
 
 ## Tech I use
 - **Languages:** Python, Go, JavaScript/TypeScript, Bash  
@@ -16,10 +16,10 @@ I build things across machine learning, systems, and tools that make sense: clea
 - **Creative:** Blender, Python scripting, simulation pipelines  
 
 ## Selected Projects
-- **MComp Diffusion Models** — End-to-end 1D diffusion pipeline for anomaly detection  
-- **AndoSim** — Blender physics tools + simulation experiments  
-- **Personal Health Dashboard** — Go backend + PostgreSQL + HTMX for tracking metrics  
-- **Finance Sync System** — Pi-based automation pulling bank transactions → Google Sheets  
+- **MComp Diffusion Models**: End-to-end 1D diffusion pipeline for anomaly detection  
+- **AndoSim**: Blender physics tools + simulation experiments  
+- **Personal Health Dashboard**: Go backend + PostgreSQL + HTMX for tracking metrics  
+- **Finance Sync System**: Pi-based automation pulling bank transactions → Google Sheets  
 
 ## What I value
 - Clear thinking  
