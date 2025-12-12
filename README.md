@@ -28,7 +28,3 @@ I build things across machine learning, systems, and tools that make sense: clea
 - Alignment between intention and output  
 
 If you want to talk about ML, systems, simulation, or philosophical perspectives on tech, feel free to reach out.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slaymish&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hamish's Top Languages"/>
-</p>
