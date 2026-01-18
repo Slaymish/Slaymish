@@ -16,15 +16,9 @@ I build things across machine learning, systems, and tools that make sense: clea
 - **Creative:** Blender, Python scripting, simulation pipelines  
 
 ## Selected Projects
-- **MComp Diffusion Models**: End-to-end 1D diffusion pipeline for anomaly detection  
+- **MComp Diffusion Models**: End-to-end multi-channel 1D diffusion pipeline for anomaly detection
+- **HealthAgent**: View health trends and goal progress, with automatic syncing to apple health
 - **AndoSim**: Blender physics tools + simulation experiments  
-- **Personal Health Dashboard**: Go backend + PostgreSQL + HTMX for tracking metrics  
 - **Finance Sync System**: Pi-based automation pulling bank transactions → Google Sheets  
-
-## What I value
-- Clear thinking  
-- Clean engineering  
-- Tools that work  
-- Alignment between intention and output  
 
 If you want to talk about ML, systems, simulation, or philosophical perspectives on tech, feel free to reach out.
