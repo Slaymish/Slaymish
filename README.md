@@ -4,7 +4,7 @@ I'm a Computer Science MComp graduate and software developer based in Wellington
 
 ## What I’m Working on
 
-- **Web Development**: At [Alphero](https://www.alphero.com/)
+- **Web Development**: At [Alphero](https://www.alphero.com/who-we-are/hamish)
 - **System Architecture Design**: Crafting scalable and efficient architectures
 - **Tools & Systems**: Python, Go, ML pipelines, server-side automation
 - **Creative Tech**: Blender simulations, physics tools, and visual systems
