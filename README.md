@@ -1,24 +1,20 @@
 # Hi, I'm Hamish 👋
 
-I'm a Computer Science MComp student and software developer based in Wellington.  
-I build things across machine learning, systems, and tools that make sense: clean, intentional engineering with a focus on clarity and robustness.
+I'm a Computer Science MComp graduate and software developer based in Wellington. I specialise in building robust systems and tools with a focus on clarity and intentional engineering.
 
-## What I’m working on
-- **MComp Research**: Diffusion-based anomaly detection for electromagnetic signals  
-- **Tools & Systems**: Python, Go, ML pipelines, server-side automation  
-- **Creative Tech**: Blender simulations, physics tools, and visual systems  
-- **Tech + Philosophy**: Interested in how people build tools *and* identities
+## What I’m Working on
 
-## Tech I use
-- **Languages:** Python, Go, JavaScript/TypeScript, Bash  
-- **ML / Data:** PyTorch, NumPy, pandas, scikit-learn  
-- **Systems / DevOps:** Linux, Docker, cron jobs, Raspberry Pi, APIs  
-- **Creative:** Blender, Python scripting, simulation pipelines  
+- **Web Development**: At [Alphero](https://www.alphero.com/)
+- **System Architecture Design**: Crafting scalable and efficient architectures
+- **Tools & Systems**: Python, Go, ML pipelines, server-side automation
+- **Creative Tech**: Blender simulations, physics tools, and visual systems
+- **Tech + Philosophy**: How people build tools _and_ identities
 
-## Selected Projects
-- **MComp Diffusion Models**: End-to-end multi-channel 1D diffusion pipeline for anomaly detection
-- **HealthAgent**: View health trends and goal progress, with automatic syncing to apple health
-- **AndoSim**: Blender physics tools + simulation experiments  
-- **Finance Sync System**: Pi-based automation pulling bank transactions → Google Sheets  
+## Technologies I Use
 
-If you want to talk about ML, systems, simulation, or philosophical perspectives on tech, feel free to reach out.
+- **Languages:** Python, Go, JavaScript/TypeScript, Java, C, C++
+- **ML / Data:** PyTorch, NumPy, pandas, scikit-learn
+- **Systems / DevOps:** Linux, Docker, CI/CD workflows
+- **Creative:** Blender, Python scripting, simulation pipelines
+
+I'm particularly interested in system architecture design and Large Language Models (LLMs) and Agents. If you want to discuss ML, systems, simulation, or philosophical perspectives on technology, feel free to reach out.
