@@ -1,5 +1,7 @@
 # Hi, I'm Hamish 👋
 
+<img width="177" height="177" alt="HB_logo" src="https://github.com/user-attachments/assets/b8dc9577-d232-461a-8904-668374a36fa2" />
+
 I'm a Computer Science MComp graduate and software developer based in Wellington. I specialise in building robust systems and tools with a focus on clarity and intentional engineering.
 
 ## What I’m Working on
